@@ -1,0 +1,1226 @@
+[
+    {
+        "iso2_id": "AE",
+        "name": "Emirados Árabes Unidos",
+        "education_expenses": "3.89",
+        "health_expenses": "3.40",
+        "literacy_rate": "98",
+        "mortality_rate": "1.87"
+    },
+    {
+        "iso2_id": "AF",
+        "name": "Afeganistão",
+        "education_expenses": "2.86",
+        "health_expenses": "0.72",
+        "literacy_rate": "37",
+        "mortality_rate": "6.91"
+    },
+    {
+        "iso2_id": "AG",
+        "name": "Antígua e Barbuda",
+        "education_expenses": "3.65",
+        "health_expenses": "3.93",
+        "literacy_rate": "98.95",
+        "mortality_rate": "6.09"
+    },
+    {
+        "iso2_id": "AL",
+        "name": "Albânia",
+        "education_expenses": "2.74",
+        "health_expenses": "2.88",
+        "literacy_rate": "98.5",
+        "mortality_rate": "11.19"
+    },
+    {
+        "iso2_id": "AM",
+        "name": "Armênia",
+        "education_expenses": "0.24",
+        "health_expenses": "2.19",
+        "literacy_rate": "100",
+        "mortality_rate": "11.88"
+    },
+    {
+        "iso2_id": "AO",
+        "name": "Angola",
+        "education_expenses": "2.33",
+        "health_expenses": "1.71",
+        "literacy_rate": "72.40",
+        "mortality_rate": "7.86"
+    },
+    {
+        "iso2_id": "AR",
+        "name": "Argentina",
+        "education_expenses": "4.81",
+        "health_expenses": "6.14",
+        "literacy_rate": "99.00",
+        "mortality_rate": "8.59"
+    },
+    {
+        "iso2_id": "AZ",
+        "name": "Azerbaijão",
+        "education_expenses": "3.58",
+        "health_expenses": "1.49",
+        "literacy_rate": "100",
+        "mortality_rate": "6"
+    },
+    {
+        "iso2_id": "BA",
+        "name": "Bósnia e Herzegovina",
+        "education_expenses": "4.14",
+        "health_expenses": "6.53",
+        "literacy_rate": "98.30",
+        "mortality_rate": "15.87"
+    },
+    {
+        "iso2_id": "BB",
+        "name": "Barbados",
+        "education_expenses": "4.04",
+        "health_expenses": "4.38",
+        "literacy_rate": "99.60",
+        "mortality_rate": "9.11"
+    },
+    {
+        "iso2_id": "BD",
+        "name": "Bangladesh",
+        "education_expenses": "1.78",
+        "health_expenses": "0.40",
+        "literacy_rate": "76",
+        "mortality_rate": "5.30"
+    },
+    {
+        "iso2_id": "BF",
+        "name": "Burkina Faso",
+        "education_expenses": "5.28",
+        "health_expenses": "2.73",
+        "literacy_rate": "34.49",
+        "mortality_rate": "8.66"
+    },
+    {
+        "iso2_id": "BG",
+        "name": "Bulgária",
+        "education_expenses": "4.73",
+        "health_expenses": "5.38",
+        "literacy_rate": "98.42",
+        "mortality_rate": "18.4"
+    },
+    {
+        "iso2_id": "BH",
+        "name": "Barein",
+        "education_expenses": "1.99",
+        "health_expenses": "2.81",
+        "literacy_rate": "98",
+        "mortality_rate": "2.48"
+    },
+    {
+        "iso2_id": "BI",
+        "name": "Burundi",
+        "education_expenses": "4.82",
+        "health_expenses": "2.23",
+        "literacy_rate": "75.54",
+        "mortality_rate": "7.31"
+    },
+    {
+        "iso2_id": "BJ",
+        "name": "Benin",
+        "education_expenses": "3.38",
+        "health_expenses": "0.32",
+        "literacy_rate": "47.10",
+        "mortality_rate": "9.32"
+    },
+    {
+        "iso2_id": "BN",
+        "name": "Brunei",
+        "education_expenses": "4.43",
+        "health_expenses": "2.06",
+        "literacy_rate": "97.59",
+        "mortality_rate": "5.43"
+    },
+    {
+        "iso2_id": "BO",
+        "name": "Bolívia",
+        "education_expenses": "7.58",
+        "health_expenses": "5.88",
+        "literacy_rate": "94",
+        "mortality_rate": "9.06"
+    },
+    {
+        "iso2_id": "BR",
+        "name": "Brasil",
+        "education_expenses": "5.50",
+        "health_expenses": "4.50",
+        "literacy_rate": "94.69",
+        "mortality_rate": "8.14"
+    },
+    {
+        "iso2_id": "BT",
+        "name": "Butão",
+        "education_expenses": "5.85",
+        "health_expenses": "2.21",
+        "literacy_rate": "72.10",
+        "mortality_rate": "6.36"
+    },
+    {
+        "iso2_id": "BW",
+        "name": "Botsuana",
+        "education_expenses": "8.06",
+        "health_expenses": "4.82",
+        "literacy_rate": "86.82",
+        "mortality_rate": "6.90"
+    },
+    {
+        "iso2_id": "BY",
+        "name": "Belarus",
+        "education_expenses": "4.95",
+        "health_expenses": "4.87",
+        "literacy_rate": "100",
+        "mortality_rate": "15.49"
+    },
+    {
+        "iso2_id": "BZ",
+        "name": "Belize",
+        "education_expenses": "4.26",
+        "health_expenses": "3.43",
+        "literacy_rate": "90.92",
+        "mortality_rate": "6.25"
+    },
+    {
+        "iso2_id": "CD",
+        "name": "República Democrática do Congo",
+        "education_expenses": "3.00",
+        "health_expenses": "0.63",
+        "literacy_rate": "80.54",
+        "mortality_rate": "9.35"
+    },
+    {
+        "iso2_id": "CF",
+        "name": "República Centro-Africana",
+        "education_expenses": "2.12",
+        "health_expenses": "1.26",
+        "literacy_rate": "37.49",
+        "mortality_rate": "11.00"
+    },
+    {
+        "iso2_id": "CG",
+        "name": "República do Congo",
+        "education_expenses": "2.95",
+        "health_expenses": "1.90",
+        "literacy_rate": "80.61",
+        "mortality_rate": "7.28"
+    },
+    {
+        "iso2_id": "CI",
+        "name": "Costa do Marfim",
+        "education_expenses": "3.43",
+        "health_expenses": "1.03",
+        "literacy_rate": "50.00",
+        "mortality_rate": "8.84"
+    },
+    {
+        "iso2_id": "CL",
+        "name": "Chile",
+        "education_expenses": "5.00",
+        "health_expenses": "4.92",
+        "literacy_rate": "97.16",
+        "mortality_rate": "7.20"
+    },
+    {
+        "iso2_id": "CM",
+        "name": "Camarões",
+        "education_expenses": "2.62",
+        "health_expenses": "0.48",
+        "literacy_rate": "78.23",
+        "mortality_rate": "8.23"
+    },
+    {
+        "iso2_id": "CN",
+        "name": "China",
+        "education_expenses": "4.02",
+        "health_expenses": "2.91",
+        "literacy_rate": "97",
+        "mortality_rate": "7.37"
+    },
+    {
+        "iso2_id": "CO",
+        "name": "Colômbia",
+        "education_expenses": "4.93",
+        "health_expenses": "6.55",
+        "literacy_rate": "96",
+        "mortality_rate": "7.41"
+    },
+    {
+        "iso2_id": "CR",
+        "name": "Costa Rica",
+        "education_expenses": "6.25",
+        "health_expenses": "5.30",
+        "literacy_rate": "98.04",
+        "mortality_rate": "7.11"
+    },
+    {
+        "iso2_id": "CU",
+        "name": "Cuba",
+        "education_expenses": "9.39",
+        "health_expenses": "12.63",
+        "literacy_rate": "99.67",
+        "mortality_rate": "9.85"
+    },
+    {
+        "iso2_id": "CV",
+        "name": "Cabo Verde",
+        "education_expenses": "4.67",
+        "health_expenses": "4.71",
+        "literacy_rate": "91",
+        "mortality_rate": "5.66"
+    },
+    {
+        "iso2_id": "CY",
+        "name": "Chipre",
+        "education_expenses": "5.24",
+        "health_expenses": "7.99",
+        "literacy_rate": "99.36",
+        "mortality_rate": "6.97"
+    },
+    {
+        "iso2_id": "DO",
+        "name": "República Dominicana",
+        "education_expenses": "3.94",
+        "health_expenses": "3.29",
+        "literacy_rate": "95.5",
+        "mortality_rate": "6.07"
+    },
+    {
+        "iso2_id": "DZ",
+        "name": "Argélia",
+        "education_expenses": "5.61",
+        "health_expenses": "3.27",
+        "literacy_rate": "81.41",
+        "mortality_rate": "4.33"
+    },
+    {
+        "iso2_id": "EC",
+        "name": "Equador",
+        "education_expenses": "3.89",
+        "health_expenses": "5.28",
+        "literacy_rate": "94",
+        "mortality_rate": "4.85"
+    },
+    {
+        "iso2_id": "EE",
+        "name": "Estônia",
+        "education_expenses": "5.26",
+        "health_expenses": "5.71",
+        "literacy_rate": "99.87",
+        "mortality_rate": "12.8"
+    },
+    {
+        "iso2_id": "EG",
+        "name": "Egito",
+        "education_expenses": "2.48",
+        "health_expenses": "1.74",
+        "literacy_rate": "74.5",
+        "mortality_rate": "6.39"
+    },
+    {
+        "iso2_id": "ER",
+        "name": "Eritreia",
+        "education_expenses": "2.13",
+        "health_expenses": "0.88",
+        "literacy_rate": "76.57",
+        "mortality_rate": "6.73"
+    },
+    {
+        "iso2_id": "ES",
+        "name": "Espanha",
+        "education_expenses": "4.32",
+        "health_expenses": "7.69",
+        "literacy_rate": "99",
+        "mortality_rate": "9.7"
+    },
+    {
+        "iso2_id": "ET",
+        "name": "Etiópia",
+        "education_expenses": "3.74",
+        "health_expenses": "0.98",
+        "literacy_rate": "51.77",
+        "mortality_rate": "6.50"
+    },
+    {
+        "iso2_id": "GA",
+        "name": "Gabão",
+        "education_expenses": "2.21",
+        "health_expenses": "1.59",
+        "literacy_rate": "85.69",
+        "mortality_rate": "7.31"
+    },
+    {
+        "iso2_id": "GD",
+        "name": "Granada",
+        "education_expenses": "3.94",
+        "health_expenses": "2.22",
+        "literacy_rate": "98.60",
+        "mortality_rate": "7.94"
+    },
+    {
+        "iso2_id": "GE",
+        "name": "Geórgia",
+        "education_expenses": "3.74",
+        "health_expenses": "3.11",
+        "literacy_rate": "100",
+        "mortality_rate": "15.20"
+    },
+    {
+        "iso2_id": "GH",
+        "name": "Gana",
+        "education_expenses": "2.91",
+        "health_expenses": "2.24",
+        "literacy_rate": "80.38",
+        "mortality_rate": "7.59"
+    },
+    {
+        "iso2_id": "GM",
+        "name": "Gâmbia",
+        "education_expenses": "2.70",
+        "health_expenses": "1.62",
+        "literacy_rate": "58.67",
+        "mortality_rate": "7.14"
+    },
+    {
+        "iso2_id": "GN",
+        "name": "Guiné",
+        "education_expenses": "1.99",
+        "health_expenses": "0.69",
+        "literacy_rate": "45.33",
+        "mortality_rate": "9.87"
+    },
+    {
+        "iso2_id": "GR",
+        "name": "Grécia",
+        "education_expenses": "4.08",
+        "health_expenses": "5.43",
+        "literacy_rate": "97.94",
+        "mortality_rate": "13.4"
+    },
+    {
+        "iso2_id": "GT",
+        "name": "Guatemala",
+        "education_expenses": "3.18",
+        "health_expenses": "2.33",
+        "literacy_rate": "83.03",
+        "mortality_rate": "6.77"
+    },
+    {
+        "iso2_id": "GW",
+        "name": "Guiné-Bissau",
+        "education_expenses": "2.71",
+        "health_expenses": "1.14",
+        "literacy_rate": "53.90",
+        "mortality_rate": "8.60"
+    },
+    {
+        "iso2_id": "GY",
+        "name": "Guiana",
+        "education_expenses": "4.45",
+        "health_expenses": "3.34",
+        "literacy_rate": "90.03",
+        "mortality_rate": "9.76"
+    },
+    {
+        "iso2_id": "HN",
+        "name": "Honduras",
+        "education_expenses": "4.05",
+        "health_expenses": "3.44",
+        "literacy_rate": "89",
+        "mortality_rate": "5.40"
+    },
+    {
+        "iso2_id": "HR",
+        "name": "Croácia",
+        "education_expenses": "4.06",
+        "health_expenses": "6.81",
+        "literacy_rate": "99.45",
+        "mortality_rate": "14.8"
+    },
+    {
+        "iso2_id": "HT",
+        "name": "Haiti",
+        "education_expenses": "1.27",
+        "health_expenses": "0.43",
+        "literacy_rate": "68.01",
+        "mortality_rate": "8.48"
+    },
+    {
+        "iso2_id": "HU",
+        "name": "Hungria",
+        "education_expenses": "4.68",
+        "health_expenses": "5.33",
+        "literacy_rate": "99.10",
+        "mortality_rate": "14.2"
+    },
+    {
+        "iso2_id": "ID",
+        "name": "Indonésia",
+        "education_expenses": "1.28",
+        "health_expenses": "2.20",
+        "literacy_rate": "96",
+        "mortality_rate": "9.59"
+    },
+    {
+        "iso2_id": "IN",
+        "name": "Índia",
+        "education_expenses": "4.12",
+        "health_expenses": "1.12",
+        "literacy_rate": "77",
+        "mortality_rate": "9.07"
+    },
+    {
+        "iso2_id": "IQ",
+        "name": "Iraque",
+        "education_expenses": "4.71",
+        "health_expenses": "2.59",
+        "literacy_rate": "86",
+        "mortality_rate": "4.43"
+    },
+    {
+        "iso2_id": "IR",
+        "name": "Irã",
+        "education_expenses": "2.93",
+        "health_expenses": "3.19",
+        "literacy_rate": "88.96",
+        "mortality_rate": "6.15"
+    },
+    {
+        "iso2_id": "IT",
+        "name": "Itália",
+        "education_expenses": "4.22",
+        "health_expenses": "7.08",
+        "literacy_rate": "99",
+        "mortality_rate": "12.1"
+    },
+    {
+        "iso2_id": "JM",
+        "name": "Jamaica",
+        "education_expenses": "5.65",
+        "health_expenses": "5.12",
+        "literacy_rate": "88.10",
+        "mortality_rate": "8.79"
+    },
+    {
+        "iso2_id": "JO",
+        "name": "Jordânia",
+        "education_expenses": "3.16",
+        "health_expenses": "2.59",
+        "literacy_rate": "95",
+        "mortality_rate": "3.96"
+    },
+    {
+        "iso2_id": "KE",
+        "name": "Quênia",
+        "education_expenses": "3.96",
+        "health_expenses": "2.22",
+        "literacy_rate": "82.88",
+        "mortality_rate": "7.83"
+    },
+    {
+        "iso2_id": "KG",
+        "name": "Quirguistão",
+        "education_expenses": "6.83",
+        "health_expenses": "2.91",
+        "literacy_rate": "99.60",
+        "mortality_rate": "4.5"
+    },
+    {
+        "iso2_id": "KH",
+        "name": "Camboja",
+        "education_expenses": "2.95",
+        "health_expenses": "2.00",
+        "literacy_rate": "83.78",
+        "mortality_rate": "6.79"
+    },
+    {
+        "iso2_id": "KI",
+        "name": "Kiribati",
+        "education_expenses": "14.20",
+        "health_expenses": "11.12",
+        "literacy_rate": "97.96",
+        "mortality_rate": "6.18"
+    },
+    {
+        "iso2_id": "KM",
+        "name": "Comores",
+        "education_expenses": "2.43",
+        "health_expenses": "0.94",
+        "literacy_rate": "61.71",
+        "mortality_rate": "8.53"
+    },
+    {
+        "iso2_id": "KR",
+        "name": "República da Coreia",
+        "education_expenses": "4.87",
+        "health_expenses": "5.97",
+        "literacy_rate": "98.80",
+        "mortality_rate": "7.3"
+    },
+    {
+        "iso2_id": "KW",
+        "name": "Kuwait",
+        "education_expenses": "5.03",
+        "health_expenses": "5.19",
+        "literacy_rate": "96",
+        "mortality_rate": "2.61"
+    },
+    {
+        "iso2_id": "KZ",
+        "name": "Cazaquistão",
+        "education_expenses": "4.46",
+        "health_expenses": "2.56",
+        "literacy_rate": "99.80",
+        "mortality_rate": "6.8"
+    },
+    {
+        "iso2_id": "LA",
+        "name": "Laos",
+        "education_expenses": "1.23",
+        "health_expenses": "0.72",
+        "literacy_rate": "87.52",
+        "mortality_rate": "6.20"
+    },
+    {
+        "iso2_id": "LB",
+        "name": "Líbano",
+        "education_expenses": "1.67",
+        "health_expenses": "2.90",
+        "literacy_rate": "95.30",
+        "mortality_rate": "8.86"
+    },
+    {
+        "iso2_id": "LK",
+        "name": "Sri Lanka",
+        "education_expenses": "1.83",
+        "health_expenses": "1.89",
+        "literacy_rate": "92",
+        "mortality_rate": "7.29"
+    },
+    {
+        "iso2_id": "LR",
+        "name": "Libéria",
+        "education_expenses": "2.28",
+        "health_expenses": "1.09",
+        "literacy_rate": "48.30",
+        "mortality_rate": "8.63"
+    },
+    {
+        "iso2_id": "LS",
+        "name": "Lesoto",
+        "education_expenses": "6.69",
+        "health_expenses": "4.20",
+        "literacy_rate": "82.01",
+        "mortality_rate": "14.07"
+    },
+    {
+        "iso2_id": "LT",
+        "name": "Lituânia",
+        "education_expenses": "4.25",
+        "health_expenses": "5.26",
+        "literacy_rate": "99.83",
+        "mortality_rate": "15.1"
+    },
+    {
+        "iso2_id": "LV",
+        "name": "Letônia",
+        "education_expenses": "4.62",
+        "health_expenses": "6.27",
+        "literacy_rate": "99.89",
+        "mortality_rate": "16.4"
+    },
+    {
+        "iso2_id": "MA",
+        "name": "Marrocos",
+        "education_expenses": "6.02",
+        "health_expenses": "2.23",
+        "literacy_rate": "77.35",
+        "mortality_rate": "5.77"
+    },
+    {
+        "iso2_id": "MD",
+        "name": "Moldávia",
+        "education_expenses": "6.25",
+        "health_expenses": "5.06",
+        "literacy_rate": "99.60",
+        "mortality_rate": "16.61"
+    },
+    {
+        "iso2_id": "MG",
+        "name": "Madagascar",
+        "education_expenses": "3.14",
+        "health_expenses": "0.74",
+        "literacy_rate": "77.48",
+        "mortality_rate": "6.80"
+    },
+    {
+        "iso2_id": "MH",
+        "name": "Ilhas Marshall",
+        "education_expenses": "7.54",
+        "health_expenses": "5.32",
+        "literacy_rate": "98",
+        "mortality_rate": "7.92"
+    },
+    {
+        "iso2_id": "MK",
+        "name": "Macedônia do Norte",
+        "education_expenses": "3.30",
+        "health_expenses": "4.64",
+        "literacy_rate": "97.80",
+        "mortality_rate": "12.3"
+    },
+    {
+        "iso2_id": "ML",
+        "name": "Mali",
+        "education_expenses": "4.04",
+        "health_expenses": "1.31",
+        "literacy_rate": "31",
+        "mortality_rate": "8.95"
+    },
+    {
+        "iso2_id": "MM",
+        "name": "Mianmar",
+        "education_expenses": "2.00",
+        "health_expenses": "1.06",
+        "literacy_rate": "89",
+        "mortality_rate": "8.75"
+    },
+    {
+        "iso2_id": "MN",
+        "name": "Mongólia",
+        "education_expenses": "3.74",
+        "health_expenses": "4.53",
+        "literacy_rate": "99",
+        "mortality_rate": "5.48"
+    },
+    {
+        "iso2_id": "MR",
+        "name": "Mauritânia",
+        "education_expenses": "2.65",
+        "health_expenses": "1.60",
+        "literacy_rate": "66.96",
+        "mortality_rate": "7.20"
+    },
+    {
+        "iso2_id": "MT",
+        "name": "Malta",
+        "education_expenses": "5.36",
+        "health_expenses": "7.13",
+        "literacy_rate": "94.94",
+        "mortality_rate": "8"
+    },
+    {
+        "iso2_id": "MU",
+        "name": "Maurício",
+        "education_expenses": "4.57",
+        "health_expenses": "3.14",
+        "literacy_rate": "92.15",
+        "mortality_rate": "10.2"
+    },
+    {
+        "iso2_id": "MV",
+        "name": "Maldivas",
+        "education_expenses": "5.17",
+        "health_expenses": "7.18",
+        "literacy_rate": "97.86",
+        "mortality_rate": "2.78"
+    },
+    {
+        "iso2_id": "MW",
+        "name": "Malauí",
+        "education_expenses": "2.91",
+        "health_expenses": "1.36",
+        "literacy_rate": "68.08",
+        "mortality_rate": "6.93"
+    },
+    {
+        "iso2_id": "MX",
+        "name": "México",
+        "education_expenses": "4.25",
+        "health_expenses": "3.05",
+        "literacy_rate": "95",
+        "mortality_rate": "6.71"
+    },
+    {
+        "iso2_id": "MY",
+        "name": "Malásia",
+        "education_expenses": "3.63",
+        "health_expenses": "2.46",
+        "literacy_rate": "96",
+        "mortality_rate": "5.44"
+    },
+    {
+        "iso2_id": "MZ",
+        "name": "Moçambique",
+        "education_expenses": "6.16",
+        "health_expenses": "2.57",
+        "literacy_rate": "63.42",
+        "mortality_rate": "8.61"
+    },
+    {
+        "iso2_id": "NA",
+        "name": "Namíbia",
+        "education_expenses": "9.04",
+        "health_expenses": "4.45",
+        "literacy_rate": "92.25",
+        "mortality_rate": "11.46"
+    },
+    {
+        "iso2_id": "NE",
+        "name": "Niger",
+        "education_expenses": "4.10",
+        "health_expenses": "2.12",
+        "literacy_rate": "38.10",
+        "mortality_rate": "7.83"
+    },
+    {
+        "iso2_id": "NG",
+        "name": "Nigéria",
+        "education_expenses": "0.35",
+        "health_expenses": "0.54",
+        "literacy_rate": "63.16",
+        "mortality_rate": "12.43"
+    },
+    {
+        "iso2_id": "NI",
+        "name": "Nicarágua",
+        "education_expenses": "3.79",
+        "health_expenses": "6.14",
+        "literacy_rate": "82.61",
+        "mortality_rate": "4.66"
+    },
+    {
+        "iso2_id": "NP",
+        "name": "Nepal",
+        "education_expenses": "3.68",
+        "health_expenses": "1.8",
+        "literacy_rate": "71.15",
+        "mortality_rate": "6.65"
+    },
+    {
+        "iso2_id": "OM",
+        "name": "Omã",
+        "education_expenses": "4.20",
+        "health_expenses": "3.81",
+        "literacy_rate": "97",
+        "mortality_rate": "3.28"
+    },
+    {
+        "iso2_id": "PA",
+        "name": "Panamá",
+        "education_expenses": "3.37",
+        "health_expenses": "5.38",
+        "literacy_rate": "96",
+        "mortality_rate": "5.90"
+    },
+    {
+        "iso2_id": "PE",
+        "name": "Peru",
+        "education_expenses": "4.24",
+        "health_expenses": "3.99",
+        "literacy_rate": "94",
+        "mortality_rate": "7.51"
+    },
+    {
+        "iso2_id": "PG",
+        "name": "Papua Nova Guiné",
+        "education_expenses": "1.35",
+        "health_expenses": "1.16",
+        "literacy_rate": "70.06",
+        "mortality_rate": "6.46"
+    },
+    {
+        "iso2_id": "PH",
+        "name": "Filipinas",
+        "education_expenses": "3.62",
+        "health_expenses": "2.13",
+        "literacy_rate": "98",
+        "mortality_rate": "5.57"
+    },
+    {
+        "iso2_id": "PK",
+        "name": "Paquistão",
+        "education_expenses": "1.87",
+        "health_expenses": "0.84",
+        "literacy_rate": "58",
+        "mortality_rate": "7.02"
+    },
+    {
+        "iso2_id": "PL",
+        "name": "Polônia",
+        "education_expenses": "4.67",
+        "health_expenses": "4.64",
+        "literacy_rate": "99.80",
+        "mortality_rate": "12.2"
+    },
+    {
+        "iso2_id": "PT",
+        "name": "Portugal",
+        "education_expenses": "4.78",
+        "health_expenses": "7.03",
+        "literacy_rate": "96.78",
+        "mortality_rate": "11.9"
+    },
+    {
+        "iso2_id": "PW",
+        "name": "Palau",
+        "education_expenses": "3.44",
+        "health_expenses": "7.40",
+        "literacy_rate": "97",
+        "mortality_rate": "11.4"
+    },
+    {
+        "iso2_id": "PY",
+        "name": "Paraguai",
+        "education_expenses": "3.41",
+        "health_expenses": "4.47",
+        "literacy_rate": "95",
+        "mortality_rate": "7.44"
+    },
+    {
+        "iso2_id": "QA",
+        "name": "Catar",
+        "education_expenses": "3.23",
+        "health_expenses": "2.46",
+        "literacy_rate": "93.46",
+        "mortality_rate": "1.08"
+    },
+    {
+        "iso2_id": "RO",
+        "name": "Romênia",
+        "education_expenses": "3.32",
+        "health_expenses": "4.9",
+        "literacy_rate": "99",
+        "mortality_rate": "14.3"
+    },
+    {
+        "iso2_id": "RS",
+        "name": "Sérvia",
+        "education_expenses": "3.24",
+        "health_expenses": "6.26",
+        "literacy_rate": "99",
+        "mortality_rate": "16.2"
+    },
+    {
+        "iso2_id": "RU",
+        "name": "Rússia (Federação Russa)",
+        "education_expenses": "4.05",
+        "health_expenses": "5.26",
+        "literacy_rate": "100",
+        "mortality_rate": "12.9"
+    },
+    {
+        "iso2_id": "RW",
+        "name": "Ruanda",
+        "education_expenses": "4.92",
+        "health_expenses": "2.99",
+        "literacy_rate": "79",
+        "mortality_rate": "5.85"
+    },
+    {
+        "iso2_id": "SA",
+        "name": "Arábia Saudita",
+        "education_expenses": "5.11",
+        "health_expenses": "4.59",
+        "literacy_rate": "98",
+        "mortality_rate": "2.75"
+    },
+    {
+        "iso2_id": "SB",
+        "name": "Ilhas Salomão",
+        "education_expenses": "8.29",
+        "health_expenses": "3.33",
+        "literacy_rate": "76.60",
+        "mortality_rate": "4.89"
+    },
+    {
+        "iso2_id": "SC",
+        "name": "Seichelles",
+        "education_expenses": "4.74",
+        "health_expenses": "4.02",
+        "literacy_rate": "96.20",
+        "mortality_rate": "7.8"
+    },
+    {
+        "iso2_id": "SD",
+        "name": "Sudão",
+        "education_expenses": "2.02",
+        "health_expenses": "0.77",
+        "literacy_rate": "60.70",
+        "mortality_rate": "6.68"
+    },
+    {
+        "iso2_id": "SG",
+        "name": "Singapura",
+        "education_expenses": "2.19",
+        "health_expenses": "3.51",
+        "literacy_rate": "98",
+        "mortality_rate": "6.3"
+    },
+    {
+        "iso2_id": "SI",
+        "name": "Eslovênia",
+        "education_expenses": "5.37",
+        "health_expenses": "6.94",
+        "literacy_rate": "99.70",
+        "mortality_rate": "10.6"
+    },
+    {
+        "iso2_id": "SL",
+        "name": "Serra Leoa",
+        "education_expenses": "6.79",
+        "health_expenses": "1.94",
+        "literacy_rate": "48.64",
+        "mortality_rate": "8.91"
+    },
+    {
+        "iso2_id": "SM",
+        "name": "San Marino",
+        "education_expenses": "3.43",
+        "health_expenses": "7.03",
+        "literacy_rate": "100",
+        "mortality_rate": "7.8"
+    },
+    {
+        "iso2_id": "SN",
+        "name": "Senegal",
+        "education_expenses": "5.99",
+        "health_expenses": "1.12",
+        "literacy_rate": "57.67",
+        "mortality_rate": "5.55"
+    },
+    {
+        "iso2_id": "SR",
+        "name": "Suriname",
+        "education_expenses": "2.87",
+        "health_expenses": "3.33",
+        "literacy_rate": "95",
+        "mortality_rate": "8.64"
+    },
+    {
+        "iso2_id": "SS",
+        "name": "Sudão do Sul",
+        "education_expenses": "1.57",
+        "health_expenses": "0.93",
+        "literacy_rate": "34.52",
+        "mortality_rate": "10.75"
+    },
+    {
+        "iso2_id": "ST",
+        "name": "São Tomé e Príncipe",
+        "education_expenses": "5.16",
+        "health_expenses": "3.35",
+        "literacy_rate": "93.75",
+        "mortality_rate": "5.84"
+    },
+    {
+        "iso2_id": "SV",
+        "name": "El Salvador",
+        "education_expenses": "3.17",
+        "health_expenses": "6.40",
+        "literacy_rate": "90",
+        "mortality_rate": "8.17"
+    },
+    {
+        "iso2_id": "SY",
+        "name": "Síria",
+        "education_expenses": "5.13",
+        "health_expenses": "1.38",
+        "literacy_rate": "94",
+        "mortality_rate": "5.05"
+    },
+    {
+        "iso2_id": "SZ",
+        "name": "Eswatini",
+        "education_expenses": "6.31",
+        "health_expenses": "3.73",
+        "literacy_rate": "90.75",
+        "mortality_rate": "11.88"
+    },
+    {
+        "iso2_id": "TD",
+        "name": "Chade",
+        "education_expenses": "2.54",
+        "health_expenses": "0.90",
+        "literacy_rate": "27.28",
+        "mortality_rate": "12.16"
+    },
+    {
+        "iso2_id": "TG",
+        "name": "Togo",
+        "education_expenses": "3.80",
+        "health_expenses": "0.55",
+        "literacy_rate": "67",
+        "mortality_rate": "8.21"
+    },
+    {
+        "iso2_id": "TH",
+        "name": "Tailândia",
+        "education_expenses": "2.52",
+        "health_expenses": "3.63",
+        "literacy_rate": "91.10",
+        "mortality_rate": "7.49"
+    },
+    {
+        "iso2_id": "TJ",
+        "name": "Tadjiquistão",
+        "education_expenses": "5.81",
+        "health_expenses": "1.94",
+        "literacy_rate": "99.80",
+        "mortality_rate": "4.70"
+    },
+    {
+        "iso2_id": "TL",
+        "name": "Timor-Leste",
+        "education_expenses": "2.97",
+        "health_expenses": "7.26",
+        "literacy_rate": "69.90",
+        "mortality_rate": "6.54"
+    },
+    {
+        "iso2_id": "TM",
+        "name": "Turcomenistão",
+        "education_expenses": "2.75",
+        "health_expenses": "0.89",
+        "literacy_rate": "99.70",
+        "mortality_rate": "6.59"
+    },
+    {
+        "iso2_id": "TN",
+        "name": "Tunísia",
+        "education_expenses": "6.73",
+        "health_expenses": "4.13",
+        "literacy_rate": "85.21",
+        "mortality_rate": "7.60"
+    },
+    {
+        "iso2_id": "TO",
+        "name": "Tonga",
+        "education_expenses": "5.15",
+        "health_expenses": "3.62",
+        "literacy_rate": "99.40",
+        "mortality_rate": "6.89"
+    },
+    {
+        "iso2_id": "TR",
+        "name": "Turquia",
+        "education_expenses": "2.61",
+        "health_expenses": "3.6",
+        "literacy_rate": "97",
+        "mortality_rate": "5.10"
+    },
+    {
+        "iso2_id": "TT",
+        "name": "Trinidad e Tobago",
+        "education_expenses": "2.88",
+        "health_expenses": "3.32",
+        "literacy_rate": "98.70",
+        "mortality_rate": "8.10"
+    },
+    {
+        "iso2_id": "TZ",
+        "name": "Tanzânia",
+        "education_expenses": "3.26",
+        "health_expenses": "0.91",
+        "literacy_rate": "82.02",
+        "mortality_rate": "5.96"
+    },
+    {
+        "iso2_id": "UA",
+        "name": "Ucrânia",
+        "education_expenses": "5.93",
+        "health_expenses": "4.09",
+        "literacy_rate": "100",
+        "mortality_rate": "21.4"
+    },
+    {
+        "iso2_id": "UG",
+        "name": "Uganda",
+        "education_expenses": "2.55",
+        "health_expenses": "1.05",
+        "literacy_rate": "80.59",
+        "mortality_rate": "5.58"
+    },
+    {
+        "iso2_id": "UY",
+        "name": "Uruguai",
+        "education_expenses": "4.51",
+        "health_expenses": "6.93",
+        "literacy_rate": "99",
+        "mortality_rate": "9.88"
+    },
+    {
+        "iso2_id": "UZ",
+        "name": "Uzbequistão",
+        "education_expenses": "5.47",
+        "health_expenses": "3.03",
+        "literacy_rate": "100",
+        "mortality_rate": "4.8"
+    },
+    {
+        "iso2_id": "VE",
+        "name": "Venezuela",
+        "education_expenses": "1.34",
+        "health_expenses": "1.35",
+        "literacy_rate": "97.60",
+        "mortality_rate": "8.1"
+    },
+    {
+        "iso2_id": "VN",
+        "name": "Vietnã",
+        "education_expenses": "2.89",
+        "health_expenses": "1.96",
+        "literacy_rate": "96",
+        "mortality_rate": "6.83"
+    },
+    {
+        "iso2_id": "VU",
+        "name": "Vanuatu",
+        "education_expenses": "10.64",
+        "health_expenses": "1.21",
+        "literacy_rate": "89.10",
+        "mortality_rate": "5.31"
+    },
+    {
+        "iso2_id": "WS",
+        "name": "Samoa",
+        "education_expenses": "6.11",
+        "health_expenses": "5.12",
+        "literacy_rate": "99.10",
+        "mortality_rate": "5.45"
+    },
+    {
+        "iso2_id": "YE",
+        "name": "Iêmen",
+        "education_expenses": "5.46",
+        "health_expenses": "0.43",
+        "literacy_rate": "54.10",
+        "mortality_rate": "6.82"
+    },
+    {
+        "iso2_id": "ZA",
+        "name": "África do Sul",
+        "education_expenses": "6.15",
+        "health_expenses": "5.00",
+        "literacy_rate": "90",
+        "mortality_rate": "12.03"
+    },
+    {
+        "iso2_id": "ZM",
+        "name": "Zâmbia",
+        "education_expenses": "3.58",
+        "health_expenses": "2.82",
+        "literacy_rate": "87.5",
+        "mortality_rate": "6.72"
+    },
+    {
+        "iso2_id": "ZW",
+        "name": "Zimbábue",
+        "education_expenses": "2.05",
+        "health_expenses": "0.91",
+        "literacy_rate": "89.85",
+        "mortality_rate": "8.94"
+    }
+]
